@@ -1,0 +1,8 @@
+name: StaffCheck
+main: net.Snicktrix.StaffCheck.StaffCheck
+author: Snicktrix
+version: 1.0
+description: Staff Check by Snicktrix
+commands:
+  staff:
+    description: Check for online staff
